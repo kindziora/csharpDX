@@ -1,0 +1,8 @@
+C:\Users\astrid\Documents\Visual Studio 2010\Projects\Founded2sharp\Backup\Founded2sharp\bin\Release\Founded2sharp.exe
+C:\Users\astrid\Documents\Visual Studio 2010\Projects\Founded2sharp\Backup\Founded2sharp\bin\Release\Founded2sharp.pdb
+C:\Users\astrid\Documents\Visual Studio 2010\Projects\Founded2sharp\Backup\Founded2sharp\obj\Release\ResolveAssemblyReference.cache
+C:\Users\astrid\Documents\Visual Studio 2010\Projects\Founded2sharp\Backup\Founded2sharp\obj\Release\Founded2sharp.Form1.resources
+C:\Users\astrid\Documents\Visual Studio 2010\Projects\Founded2sharp\Backup\Founded2sharp\obj\Release\Founded2sharp.Properties.Resources.resources
+C:\Users\astrid\Documents\Visual Studio 2010\Projects\Founded2sharp\Backup\Founded2sharp\obj\Release\Founded2sharp.csproj.GenerateResource.Cache
+C:\Users\astrid\Documents\Visual Studio 2010\Projects\Founded2sharp\Backup\Founded2sharp\obj\Release\Founded2sharp.exe
+C:\Users\astrid\Documents\Visual Studio 2010\Projects\Founded2sharp\Backup\Founded2sharp\obj\Release\Founded2sharp.pdb
